@@ -17,3 +17,5 @@ contract Migrations {
     last_completed_migration = completed;
   }
 }
+
+// 버전관리를 해주는 파일이다.
