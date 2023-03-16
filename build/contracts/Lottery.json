@@ -978,10 +978,16 @@
       "links": {},
       "address": "0x260c55d15b9d57d2dBf17e34794B69F22d03Fe9a",
       "transactionHash": "0x2a72281c67346b9271750fc15dd5245158ba542805e123b009ca626d2c180c98"
+    },
+    "1678955537245": {
+      "events": {},
+      "links": {},
+      "address": "0x772a9440379fA231FbE8e0302E83e70372f48AE5",
+      "transactionHash": "0x578435aaf70c3405e1527a3e6dadf1e05de3c744dd0a98a94939c823ade048ee"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2023-03-15T08:56:42.573Z",
+  "updatedAt": "2023-03-16T08:33:07.761Z",
   "devdoc": {
     "methods": {}
   },
